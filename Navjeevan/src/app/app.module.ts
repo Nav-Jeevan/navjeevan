@@ -9,7 +9,7 @@ import { HomepageComponent } from './homepage/homepage.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatSliderModule } from '@angular/material/slider';
 import {MatButtonModule} from '@angular/material/button';
-
+import { MatCardModule } from '@angular/material/card'
 
 @NgModule({
   declarations: [
@@ -23,7 +23,8 @@ import {MatButtonModule} from '@angular/material/button';
     AppRoutingModule,
     BrowserAnimationsModule,
     MatSliderModule,
-    MatButtonModule
+    MatButtonModule,
+    MatCardModule
   ],
   providers: [],
   bootstrap: [AppComponent]

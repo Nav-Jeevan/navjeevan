@@ -1,4 +1,18 @@
 .img-lady-doctor {
-    height: 500px;
-    width: 500px;
+    height: 700px;
+    width: 700px;
+}
+.dashboard-image {
+    padding: 30px;
+
+}
+.contents {
+    float: right;
+    margin-right: 35%;
+}
+.card-in-contents {
+    height: 200px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
 }
