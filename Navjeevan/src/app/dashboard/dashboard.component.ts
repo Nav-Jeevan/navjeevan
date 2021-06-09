@@ -13,5 +13,8 @@ export class DashboardComponent implements OnInit {
   ngOnInit(): void {
   }
   myImage: string = '/../assets/images/medical_group.png'
+  introMessage: string = 'NavJeevan project is aiming to provide healthcare ' +
+  'to everyone, like consulting with virtual doctors and getting information' +
+  ' about their disease. Users can also get information about their medication.';
 
 }
