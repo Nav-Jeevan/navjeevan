@@ -1,4 +1,3 @@
 # The Navjeevan project.
-Project to provide Health Care services.
-
-  As most of the people in India are not able to receive doctors consultation for their health related problems, so this project is aiming to provide healthcare related tips in a fun and interactive way.
+### Introduction
+This project is built with an aim to provide healthcare services where users can get all the necessary information regarding a disease or they can select some of their symptoms to know what disease they may have.
